@@ -2,14 +2,14 @@
 
 Projet de shell minimaliste pour expérimenter la programmation système.
 
-## Notion abordé dans le projet
+## Notions abordées dans le projet
 
 * gestion de processus (PID, fork)
 * communication inter-processus par envoi de signaux
 
 ## Compilation et exécution
 
-Chaque commande est à exécuter depuis la racine du projet : 
+Chaque commandes est à exécuter depuis la racine du projet : 
 
 * Pour compiler, utilisez la commande `make`
 * Pour lancer le projet, utilisez les commandes
